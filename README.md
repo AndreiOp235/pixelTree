@@ -1,8 +1,7 @@
 # pixelTree
 <p align="center">
-![image](https://github.com/AndreiOp235/pixelTree/assets/42703353/846b348b-ffba-453f-84ba-8196a71f9004)
+  <src="[https://picsum.photos/460/300](https://github.com/AndreiOp235/pixelTree/assets/42703353/846b348b-ffba-453f-84ba-8196a71f9004)">
 </p>
-
 
 Folosind 300 de led-uri WS2812b infasurate pe un cadru metalic sudat impreuna cu tatal meu am reusit sa dam un suflu 3d asupra acestui proiect.
 
